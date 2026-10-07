@@ -1,4 +1,6 @@
-# DocMind — Multimodal Document Intelligence
+# Nexvion-hacknex
+
+## DocMind — Multimodal Document Intelligence
 
 Upload a PDF and ask questions across its text, tables, charts, diagrams, images, and scanned pages. Answers include citations that open the matching page and evidence region.
 
